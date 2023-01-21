@@ -1,7 +1,4 @@
-test 1
-makes sense
-jump
-jump more
-run away
-running
-default arg
+go shopping
+go runnin why not
+study math
+study programming
